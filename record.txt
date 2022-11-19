@@ -1,0 +1,11 @@
+7 Best Threshold : [0.2], Score : [0.53626]
+8 Best Threshold : [0.25], Score : [0.53651]
+9 Best Threshold : [0.2], Score : [0.57610] *** 드랍상관관계 커트라인 0.005
+11 Best Threshold : [0.25], Score : [0.56861]
+12 Best Threshold : [0.1], Score : [1.00000]
+
+13 Best Threshold : [0.1], Score : [0.57152]
+14 Best Threshold : [0.2], Score : [0.57613]  0.4
+15 Best Threshold : [0.2], Score : [0.57205]  0.3
+-------------
+16 Best Threshold : [0.25], Score : [0.57725] 0.325
