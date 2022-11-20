@@ -2,10 +2,19 @@
 8 Best Threshold : [0.25], Score : [0.53651]
 9 Best Threshold : [0.2], Score : [0.57610] *** 드랍상관관계 커트라인 0.005
 11 Best Threshold : [0.25], Score : [0.56861]
-12 Best Threshold : [0.1], Score : [1.00000]
+12 Best Threshold : [0.1], Score : [1.00000] ???
 
 13 Best Threshold : [0.1], Score : [0.57152]
 14 Best Threshold : [0.2], Score : [0.57613]  0.4
-15 Best Threshold : [0.2], Score : [0.57205]  0.3
+15 Best Threshold : [0.2], Score : [0.57205]  0.3   *** 2nd
 -------------
-16 Best Threshold : [0.25], Score : [0.57725] 0.325
+16(X) Best Threshold : [0.25], Score : [0.57725] - cutline 0.005, T_thresh 0.325, S_Thresh 0.35
+17 Best Threshold : [0.25], Score : [0.57773] - cutline 0.004, T_thresh 0.325, S_Thresh 0.35
+18(X) Best Threshold : [0.2], Score : [0.57834] - cut 0.004, T_thresh 0.3, S_Thresh 0.35
+18 Best Threshold : [0.2], Score : [0.58140] - cut 0.004, T_thresh 0.3, S_Thresh 0.325
+19 Best Threshold : [0.2], Score : [0.57846] - cut 0.005, T_thresh 0.3, S_Thresh 0.325
+---------
+41 Best Threshold : [0.25], Score : [0.58402] - cut 0.005, T_thresh 0.3, S_Thresh 0.325, BEC(reduct=sum) 
+42
+
+
